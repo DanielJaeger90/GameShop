@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "usuario": "usuario_1",
+        "accion": "VENTA",
+        "detalle": "Teclado Mecánico RGB | Cantidad: 1 | Tienda_1",
+        "fecha": "2026-06-12 17:41:18"
+    },
+    {
+        "id": 2,
+        "usuario": "usuario_2",
+        "accion": "UPDATE PRODUCTO",
+        "detalle": "Teclado Mecánico RGB | Stock: 24 | Precio: 59.99",
+        "fecha": "2026-06-12 17:42:21"
+    },
+    {
+        "id": 3,
+        "usuario": "admin",
+        "accion": "CREATE USER",
+        "detalle": "usuario_3 (usuario_1)",
+        "fecha": "2026-06-12 17:58:36"
+    },
+    {
+        "id": 4,
+        "usuario": "admin",
+        "accion": "DELETE USER",
+        "detalle": "usuario_3",
+        "fecha": "2026-06-12 18:01:51"
+    },
+    {
+        "id": 5,
+        "usuario": "usuario_1",
+        "accion": "VENTA",
+        "detalle": "Teclado Mecánico RGB | Cantidad: 1 | Tienda_1",
+        "fecha": "2026-06-12 19:49:16"
+    },
+    {
+        "id": 6,
+        "usuario": "admin",
+        "accion": "CREATE USER",
+        "detalle": "usuario_3 (usuario_1)",
+        "fecha": "2026-06-12 19:51:21"
+    }
+]

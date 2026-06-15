@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "nombre": "Teclado Mecánico RGB",
+        "categoria": "Periféricos",
+        "precio": 59.99,
+        "stock": 23,
+        "marca": "HyperX",
+        "descripcion": "Teclado mecánico con switches rojos y retroiluminación RGB personalizable"
+    },
+    {
+        "id": 2,
+        "nombre": "Ratón Gaming Inalámbrico",
+        "categoria": "Periféricos",
+        "precio": 39.99,
+        "stock": 40,
+        "marca": "Logitech",
+        "descripcion": "Ratón ergonómico con sensor de alta precisión y conexión inalámbrica"
+    },
+    {
+        "id": 3,
+        "nombre": "Monitor 144Hz 24 pulgadas",
+        "categoria": "Monitores",
+        "precio": 189.99,
+        "stock": 15,
+        "marca": "ASUS",
+        "descripcion": "Monitor Full HD con tasa de refresco de 144Hz ideal para gaming competitivo"
+    },
+    {
+        "id": 4,
+        "nombre": "Auriculares Surround 7.1",
+        "categoria": "Audio",
+        "precio": 79.99,
+        "stock": 30,
+        "marca": "Razer",
+        "descripcion": "Auriculares con sonido envolvente 7.1 y micrófono con cancelación de ruido"
+    },
+    {
+        "id": 5,
+        "nombre": "Silla Gaming Ergonómica",
+        "categoria": "Mobiliario",
+        "precio": 149.99,
+        "stock": 10,
+        "marca": "DXRacer",
+        "descripcion": "Silla gaming con soporte lumbar ajustable y reposabrazos 3D"
+    }
+]
